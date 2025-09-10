@@ -51,3 +51,5 @@ with tab1:
 
 with tab2:
     st.dataframe(df, hide_index=True)
+
+st.markdown("[View Source Code on GitHub](https://github.com/NatalieWeaver/mouseville-explorer)")
